@@ -198,7 +198,7 @@ It’s also important to remember that these preferences are generally device- a
 
 The list of third-party service providers and their privacy practices can often be found within the privacy section of the service you are using, and it should provide instructions for opting out where available.
 
-**Section 14 Deletion & Modification of Information **
+**Section 14 Deletion & Modification of Information**
 ------
 You, your guardian, or agent have the right to email us to access, change, or remove your personal data or your child’s identifier in our records, or to request we stop its usage. You can also ask us to have third parties, who obtained your data via the apps, to do likewise, and we’ll endeavor to ensure they comply. Some apps may allow direct in-app requests for data deletion. Once you cease using our apps, we'll keep your data for a period deemed necessary to meet legal obligations, resolve disputes, or enforce agreements. Note that we can't alter or delete information shared with social networks or third-party platforms through our apps. You may adjust your third-party settings to change what's shared. Opting out of such sharing may limit your app experience. Non-personal or de-identified data may be stored by us indefinitely.
 
@@ -206,7 +206,7 @@ You, your guardian, or agent have the right to email us to access, change, or re
 ------
 We prioritize the safety of your data and use standard industry practices to safeguard our Apps and your information from unauthorized access or use. However, please be aware that despite our efforts, no method of data transmission over the Internet or electronic storage is completely secure, and we cannot guarantee absolute security. THE COMPANY DISCLAIMS, TO THE MAXIMUM EXTENT ALLOWED BY LAW, ANY LIABILITY FOR THE UNINTENTIONAL DISCLOSURE OR UNAUTHORIZED ACCESS OR USE OF YOUR INFORMATION BY OUTSIDERS, OR ANY OTHER SECURITY BREACHES THAT RESULT IN THE THEFT, MODIFICATION, OR DESTRUCTION OF DATA, INCLUDING USER GENERATED CONTENT.
 
-** Section 16 Privacy Policy Changes**
+**Section 16 Privacy Policy Changes**
 -----
 This Privacy Policy outlines the rules for using our Apps and handling your information. We may update this policy and encourage you to review this page periodically for any changes.
 
