@@ -41,22 +41,21 @@ Admob’s Partners: https://support.google.com/admanager/answer/9012903 See “C
 *Opt out links:*
 https://policies.google.com/technologies/partner-sites
 
-**3rd party**
-Chartboost Inc	
+**Chartboost Inc**	
 
-**Privacy policy links:**
+*Privacy policy links:*
 https://answers.chartboost.com/en-us/articles/200780269 
 privacy@chartboost.com
-**Opt out links:**
+*Opt out links:*
 https://answers.chartboost.com/en-us/articles/200780269
 
-**3rd party**
-Adcolony (A division of Jirbo Inc)
 
-**Privacy policy links:**
+**Adcolony (A division of Jirbo Inc)**
+
+*Privacy policy links:*
 https://www.adcolony.com/privacy-policy/ 
 
-**Opt out links:**
+*Opt out links:*
 https://www.adcolony.com/privacy-policy/
 
 **3rd party**
