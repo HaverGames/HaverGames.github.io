@@ -96,18 +96,40 @@ We, along with third-party service providers (like ad networks and analytics fir
 
 **Section 6.2 Personal Information:**
 Data that can identify users individually, which is considered private and sensitive.
+To our knowledge we don't currently collect or process any personal information in any of our apps. 3rd parties might need it use it in cases of in-app purchases, and things like this.
 
-Additionally, third parties might monitor and gather details of your online behavior across various digital services. For opting out of such tracking, consult Section 18.
-
+Additionally, third parties might monitor and gather details of your online behavior across various digital services. For opting out of such tracking, consult Section 17.
 It's important to note that if Non-Personal Information is linked to Personal Information, it will be treated as Personal Information.
-
 We refrain from collecting any payment details, government IDs, private contacts, microphone and camera data, or sensitive device data from users.
-
 Some Cameo Games Apps might access both Personal and Non-Personal Information for feature functionality, but this data isn't processed by Cameo Games—it stays on your device and isn't used or collected by us.
 
+**Section 7 Collection Methods for User information (How do we collect the information)**
+------
 
+**Section 7.1** Non-personal Information is acquired during your interaction with Cameo Games Apps. This collection happens through the app's use, including APIs or SDKs integrated within the apps. Additionally, your device may store non-personal data through standard technologies like cookies and local storage (details on these technologies are provided in Section 17).
 
+**Section 7.2 **Personal Information is collected directly from you or through third parties when you install or use Cameo Games Apps, or interact with ads within these apps. This data is gathered via the apps themselves or through third-party APIs or SDKs present in the apps. Your device might also save personal data through accepted industry methods such as cookies and local storage (refer to Section 17 for more on cookies and local storage).
 
+**Section 8: Objectives of Information Collection**
+-------
+
+The collection of Non-personal Information serves to:
+
+- Analyze trends, administer our Cameo Games Apps, and gather broad demographic data for aggregate use.
+- Enhance and refine our Cameo Games Apps by tracking user activities and identifying usage patterns.
+- Support the distribution and promotion of our Apps.
+
+The collection of Personal Information is for:
+
+- Customizing and enriching user interactions within the Cameo Games Apps.
+- Enhancing and personalizing user experience and delivering tailored content, including targeted advertising.
+- Enabling specific advertising functions, like limiting the number of times an ad is shown (frequency capping).
+- Activating various in-app features such as gaming achievements, social connectivity, and Facebook login integration.
+- Informing users about our offerings, updates, and competitions.
+- Facilitating user participation in online games, events, and publicly showcasing related achievements and scores.
+- Authenticating user interactions to prevent fraud and unauthorized activities.
+- Assessing and enhancing the effectiveness of advertising campaigns and personalizing ad experiences based on user behavior.
+- Any additional purposes described at the time the information is collected.
 
 
 
