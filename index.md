@@ -20,9 +20,9 @@ Should you be younger than eighteen (18) years of age, it is important that your
 
 Chapter A : Children Privacy Policy
 ------
-Chapter A  is our Children’s Privacy Policy and outlines how we handle personal data for children under 16 using our Children Apps or those indicating their age as under 16 at the age-gate. We collect personal information from children only as detailed in Sections 3.2 and 3.3.
+Chapter A  is our Children’s Privacy Policy and outlines how we handle personal data for children under 16 using our Children Apps or those indicating their age as under 16 at the age-gate. We collect personal information from children only as detailed in Sections 3.2.
 
-Children must not provide personal information unless it's outlined in Section 3.3. If a child under your care has provided personal information, email us at havergames.nnnn@gmail.com for removal.
+Children must not provide personal information. If a child under your care has provided personal information, email us at havergames.nnnn@gmail.com for removal.
 
 We collect information as described in Section 3 to support our internal operations in compliance with legal standards.
 
