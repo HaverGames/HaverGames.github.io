@@ -28,6 +28,9 @@ At the bottom of this page you can find a list of third parties that we work wit
 
 An age-gate feature in our Apps is there to shield users under 16 from certain features, such as targeted advertising or data sharing.
 
+3rd party Partners and their links
+-----
+
 **3rd party**
 Google (Admob)  
 
@@ -38,7 +41,7 @@ Admob’s Partners: https://support.google.com/admanager/answer/9012903 See “C
 
 **Opt out links:**
 https://policies.google.com/technologies/partner-sites
------
+
 **3rd party**
 Chartboost Inc	
 
@@ -47,7 +50,7 @@ https://answers.chartboost.com/en-us/articles/200780269
 privacy@chartboost.com
 **Opt out links:**
 https://answers.chartboost.com/en-us/articles/200780269
------
+
 **3rd party**
 Adcolony (A division of Jirbo Inc)
 
@@ -56,7 +59,7 @@ https://www.adcolony.com/privacy-policy/
 
 **Opt out links:**
 https://www.adcolony.com/privacy-policy/
------
+
 **3rd party**
 Unity Technologies Finland Oy
 
@@ -66,7 +69,7 @@ https://unity3d.com/legal/privacy-policy
 **Opt out links:**
 https://unity3d.com/legal/privacy-policy; 
 https://unity3d.com/legal/cookie-policy#cookies;
------
+
 **3rd party**
 Apple (SearchAds)
 
@@ -77,7 +80,7 @@ https://www.apple.com/uk/privacy/contact/
 
 **Opt out links:**
 https://www.apple.com/legal/privacy/en-ww/
------
+
 **3rd party**
 Vungle Inc.	
 
@@ -86,7 +89,7 @@ https://vungle.com/privacy/
 
 **Opt out links:**
 http://vungle.com/privacy/#section-2-4
------
+
 **3rd party**
 
 
@@ -95,7 +98,7 @@ http://vungle.com/privacy/#section-2-4
 
 **Opt out links:**
 
------
+
 **3rd party**
 
 
@@ -104,7 +107,7 @@ http://vungle.com/privacy/#section-2-4
 
 **Opt out links:**
 
------
+
 **3rd party**
 
 
@@ -113,7 +116,7 @@ http://vungle.com/privacy/#section-2-4
 
 **Opt out links:**
 
------
+
 **3rd party**
 
 
@@ -122,7 +125,7 @@ http://vungle.com/privacy/#section-2-4
 
 **Opt out links:**
 
------
+
 **3rd party**
 
 
@@ -131,7 +134,7 @@ http://vungle.com/privacy/#section-2-4
 
 **Opt out links:**
 
------
+
 **3rd party**
 
 
@@ -140,7 +143,7 @@ http://vungle.com/privacy/#section-2-4
 
 **Opt out links:**
 
------
+
 **3rd party**
 
 
@@ -149,7 +152,7 @@ http://vungle.com/privacy/#section-2-4
 
 **Opt out links:**
 
------
+
 **3rd party**
 
 
