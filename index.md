@@ -31,6 +31,7 @@ At the bottom of this page you can find a list of third parties that we work wit
 
 An age-gate feature in our Apps is there to shield users under 16 from certain features, such as targeted advertising or data sharing.
 
+
 Section 2 Offline use
 -----
 Children can use some features of our Children Apps offline, which prevents the collection of any information about the user by us or third parties.
