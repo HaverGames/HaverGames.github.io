@@ -36,7 +36,7 @@ Section 2 Offline use
 Children can use some features of our Children Apps offline, which prevents the collection of any information about the user by us or third parties.
 
 Section 3 Online use
-
+-----
 There are 2 categories of data that we collected form our Children apps.
 
 **Section 3.1 Non-personal Information:**
@@ -65,6 +65,53 @@ Data is collected via the app, including through third-party SDKs, and may be st
 
 **Non-Processing Access:**
 Some apps may access personal and non-personal information for specific functionalities without Crazy Labs processing this data. For example, camera and microphone access for optional features like face manipulation, where content is stored locally and not transmitted to our servers.
+
+**Section 4 Sharing Information with Third Parties**
+------
+Children Persistent Device Identifiers may be shared in specific scenarios, such as:
+
+- Complying with legal requirements or government requests
+- Enforcing policies or investigating policy violations
+- Addressing fraud, security, or technical issues
+- Protecting the rights or safety of the Company, users, or public
+- During company transitions like mergers, acquisitions, or asset sales
+- With a guardian's approval for providing requested services
+- 
+Children Non-personal Information may also be shared at the Company's discretion.
+
+**Section 5 Advertising**
+------
+We display ads from third-party networks in our apps. These networks comply with privacy laws and COPPA. Clicking on ads takes users away from our apps, where the advertiser's cookies and tracking may collect information. We advise guardians to review these advertisers' privacy policies, as they, not ours, will govern those interactions. We may also advertise our apps on third-party platforms.
+
+Chapter B: Cameo Games Hyper and Hybrid casual apps Privacy Policy
+-------
+Cameo Games Privacy Policy outlines our practices for handling personal data of users engaging with Crazy Labs Apps and those above 16 as confirmed through an age gate in our Children Apps. Apps in Chapter B refers to sections available solely to verified users over 16.
+
+**Section 6 Data Processing**
+------
+This section describes the types of information we process from users that use our apps.
+
+**Section 6.1 Non-Personal Information**
+We, along with third-party service providers (like ad networks and analytics firms), may collect anonymous data that doesn’t reveal user identity. While this data is non-identifiable, some regions may regard it as personal information; see Section 20.2 for more on this.
+
+**Section 6.2 Personal Information:**
+Data that can identify users individually, which is considered private and sensitive.
+
+Additionally, third parties might monitor and gather details of your online behavior across various digital services. For opting out of such tracking, consult Section 18.
+
+It's important to note that if Non-Personal Information is linked to Personal Information, it will be treated as Personal Information.
+
+We refrain from collecting any payment details, government IDs, private contacts, microphone and camera data, or sensitive device data from users.
+
+Some Cameo Games Apps might access both Personal and Non-Personal Information for feature functionality, but this data isn't processed by Cameo Games—it stays on your device and isn't used or collected by us.
+
+
+
+
+
+
+
+
 
 
 
