@@ -31,8 +31,7 @@ An age-gate feature in our Apps is there to shield users under 16 from certain f
 3rd party Partners and their links
 -----
 
-**3rd party**
-Google (Admob)  
+__Google (Admob)__
 
 **Privacy policy links:**
 https://policies.google.com/technologies/partner-sites 
