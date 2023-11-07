@@ -10,7 +10,8 @@ Term definitions
 'We' refers to Cameo Games aps. This privacy policy counts for our apps on the google play account Haver Games.
 'You' refers to the the user of our apps.
 
-1) Consent disclaimer (Please read this section with care!)
+Section 1 Consent disclaimer (Please read this section with care!)
+-----
 By downloading and installing our apps to your mobile device, opening and playing, you are agreeing to the terms outlined in the privact policy. This includes the collection and use of your information.
 If you or your guardian DO NOT accept the terms in the privacy policy then you should not download, access or use the apps, and you're requested to remove the apps from all your mobilde devices
 
@@ -29,6 +30,43 @@ We engage Third Parties (like ad networks and analytics providers) to collect in
 At the bottom of this page you can find a list of third parties that we work with along with links to their policies and links to optOut of their services.
 
 An age-gate feature in our Apps is there to shield users under 16 from certain features, such as targeted advertising or data sharing.
+
+Section 2 Offline use
+-----
+Children can use some features of our Children Apps offline, which prevents the collection of any information about the user by us or third parties.
+
+Section 3 Online use
+
+There are 2 categories of data that we collected form our Children apps.
+
+**Section 3.1 Non-personal Information:**
+
+Our apps and third-party services may automatically gather anonymous information that doesn't reveal the child's identity. This includes technical data like the device type, operating system, session times, traffic sources, app interaction, ad responses, in-app purchases, gameplay statistics, app stability issues, and broad location (country level only).
+
+**Section 3.2 Children’s Persistent Device Identifiers:**
+
+We collect device identifiers like advertising IDs and user IDs to support the app's internal operations but do not collect personal information like names or addresses. IP addresses are kept for one week for error logs before deletion. We adhere to platform policies regarding the use of advertising identifiers.
+
+**Purpose of Data Collection:**
+The collected data is used exclusively for internal operations, such as:
+
+- Enhancing and maintaining the apps
+- Analyzing app performance
+- Authenticating in-app purchases
+- Personalizing user content
+- Ensuring network communications
+- Maintaining user and app security
+- Delivering contextual ads and managing ad frequency
+- Complying with legal or regulatory requirements
+- Responding to user support inquiries
+
+**Data Collection Methods:**
+Data is collected via the app, including through third-party SDKs, and may be stored on the device using cookies-like technology. If third parties collect data from children, their privacy policies govern that process, but we ensure they comply with COPPA and our privacy standards.
+
+**Non-Processing Access:**
+Some apps may access personal and non-personal information for specific functionalities without Crazy Labs processing this data. For example, camera and microphone access for optional features like face manipulation, where content is stored locally and not transmitted to our servers.
+
+
 
 
 
