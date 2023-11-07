@@ -3,8 +3,10 @@
 Making games for you.
 
 Privacy policy:
+-----
 
 Term definitions
+------
 'We' refers to Cameo Games aps. This privacy policy counts for our apps on the google play account Haver Games.
 'You' refers to the the user of our apps.
 
@@ -16,7 +18,7 @@ If you or your guardian DO NOT accept the terms in the privacy policy then you s
 Should you be younger than eighteen (18) years of age, it is important that your legal guardian reviews and consents to this Privacy Policy before you use the Apps.
 
 Chapter A : Children Privacy Policy
-
+------
 Chapter A  is our Children’s Privacy Policy and outlines how we handle personal data for children under 16 using our Children Apps or those indicating their age as under 16 at the age-gate. We collect personal information from children only as detailed in Sections 3.2 and 3.3.
 
 Children must not provide personal information unless it's outlined in Section 3.3. If a child under your care has provided personal information, email us at havergames.nnnn@gmail.com for removal.
@@ -27,6 +29,8 @@ We engage Third Parties (like ad networks and analytics providers) to collect in
 At the bottom of this page you can find a list of third parties that we work with along with links to their policies and links to optOut of their services.
 
 An age-gate feature in our Apps is there to shield users under 16 from certain features, such as targeted advertising or data sharing.
+
+
 
 3rd party Partners and their links
 -----
@@ -58,103 +62,285 @@ https://www.adcolony.com/privacy-policy/
 *Opt out links:*
 https://www.adcolony.com/privacy-policy/
 
-**3rd party**
-Unity Technologies Finland Oy
+**Unity Technologies Finland Oy**
 
-**Privacy policy links:**
+*Privacy policy links:*
 https://unity3d.com/legal/privacy-policy
 
-**Opt out links:**
+*Opt out links:*
 https://unity3d.com/legal/privacy-policy; 
 https://unity3d.com/legal/cookie-policy#cookies;
 
-**3rd party**
-Apple (SearchAds)
 
-**Privacy policy links:**
+**Apple (SearchAds)**
+
+*Privacy policy links:*
 https://www.apple.com/legal/privacy/en-ww/ 
 https://www.apple.com/privacy/ 
 https://www.apple.com/uk/privacy/contact/
 
-**Opt out links:**
+*Opt out links:*
 https://www.apple.com/legal/privacy/en-ww/
 
-**3rd party**
-Vungle Inc.	
+**Vungle Inc.**	
 
-**Privacy policy links:**
+*Privacy policy links:*
 https://vungle.com/privacy/
 
-**Opt out links:**
+*Opt out links:*
 http://vungle.com/privacy/#section-2-4
 
+**ironSource Mobile Ltd.**
+
+
+*Privacy policy links:*
+https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/ legal@ironsrc.com ironSource Mobile Ltd. dpo@ironsrc.com 121 Menachem Begin Rd., Tel Aviv, Israel Attn: Data Protection Officer
+
+*Opt out links:*
+https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
+
+**AppLovin Corporation**
+
+
+*Privacy policy links:*
+https://www.applovin.com/privacy/
+
+*Opt out links:*
+https://www.applovin.com/privacy/ 
+https://dash.applovin.com/p/how-applovin-shows-you-ads
+
+**Mintegral**
+
+
+*Privacy policy links:*
+https://www.mintegral.com/en/privacy/ 
+
+
+*Opt out links:*
+See “Your Data rights” section (7) of privacy policy at https://www.mintegral.com/en/privacy/
+
+**InMobi Pte. Ltd.**
+
+
+*Privacy policy links:*
+https://www.inmobi.com/privacy-policy/
+
+*Opt out links:*
+https://www.inmobi.com/page/opt-out/
+
+**Bytedance Pte. Ltd.**
+
+
+*Privacy policy links:*
+ttps://ad.oceanengine.com/union/media/privacy
+
+*Opt out links:*
+
+
+**Ogury Limited	**
+
+
+*Privacy policy links:*
+https://ogury.com/privacy-policy/
+
+*Opt out links:*
+
+
+**Fyber Monetization Ltd.**
+
+*Privacy policy links:*
+https://www.fyber.com/services-privacy-statement/
+
+*Opt out links:*
+
+
+**Facebook Audience Network**
+
+
+*Privacy policy links:*
+	https://www.facebook.com/privacy/explanation 
+
+*Opt out links:*
+https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen
+**Facebook Custom Audience**
+
+
+*Privacy policy links:*
+https://www.facebook.com/about/privacy
+
+*Opt out links:*
+	https://www.facebook.com/about/privacy
+
+**Snap Group Limited (Snapchat)**
+
+
+*Privacy policy links:*
+
+
+*Opt out links:*
+
+
+**Tapjoy, inc.**
+
+
+*Privacy policy links:*
+
+
+*Opt out links:*
+
+
+**Smart Media4U Technology Pte. Ltd. (ShareIT)**
+
+
+*Privacy policy links:*
+http://www.ushareit.com/terms
+
+*Opt out links:*
+
+
+**MoPub (Twitter International Company)**
+
+
+*Privacy policy links:*
+https://www.mopub.com/legal/privacy/
+
+*Opt out links:*
+https://www.mopub.com/optout/
+
+**Adlogic Technology Pte. Ltd.**
+
+
+*Privacy policy links:*
+
+
+*Opt out links:*
+
+
+**JetFuel (Real Labs Technology Inc.)**
+
+
+*Privacy policy links:*
+https://jetfuel.it/privacy 
+
+*Opt out links:*
+https://jetfuel.it/privacy
+
+**Adjoe GmbH**
+
+
+*Privacy policy links:*
+https://adjoe.io/privacy/
+
+*Opt out links:*
+
+
+**Tik Tok Inc.**
+
+
+*Privacy policy links:*
+https://www.tiktok.com/legal/privacy-policy?lang=en 
+
+*Opt out links:*
+
+
+**Madhouse**
+
+*Privacy policy links:*
+
+
+*Opt out links:*
+
+
+**Amazon Web Services, Inc.**
+
+*Privacy policy links:*
+https://aws.amazon.com/privacy/
+
+*Opt out links:*
+
+
+**Flurry Inc.**
+
+*Privacy policy links:*
+https://privacy.oath.com
+
+*Opt out links:*
+https://policies.oath.com/ie/en/oath/privacy/controls/index.html 
+https://policies.oath.com/xw/en/oath/privacy/optout/index.html 
+https://policies.oath.com/us/en/oath/privacy/dashboard/
+
+**deltaDNA Limited	**
+
+
+*Privacy policy links:*
+https://unity3d.com/legal/privacy-policy 
+
+*Opt out links:*
+
+
+**Google Analytics**
+
+
+*Privacy policy links:*
+https://policies.google.com/privacy 
+https://policies.google.com/technologies/partner-sites 
+www.google.com/policies/privacy/partners/
+
+*Opt out links:*
+https://policies.google.com/technologies/partner-sites
+
+**Amazon Web Services, Inc.**
+
+
+*Privacy policy links:*
+https://aws.amazon.com/privacy/
+
+*Opt out links:*
+
+
+**Google (Google Cloud Platform)**
+
+
+*Privacy policy links:*
+
+
+*Opt out links:*
+
+
+**Google LLC (Firebase)**
+
+
+*Privacy policy links:*
+https://policies.google.com/privacy 
+https://firebase.google.com/support/privacy
+
+*Opt out links:*
+
+
 **3rd party**
 
 
-**Privacy policy links:**
+*Privacy policy links:*
 
 
-**Opt out links:**
+*Opt out links:*
 
 
-**3rd party**
+**AppsFlyer Ltd.**
 
 
-**Privacy policy links:**
+*Privacy policy links:*
 
 
-**Opt out links:**
+*Opt out links:*
+privacy@appsflyer.com https://www.appsflyer.com/optout
 
 
-**3rd party**
+**Singular Labs Inc**
 
 
-**Privacy policy links:**
+*Privacy policy links:*
 
 
-**Opt out links:**
-
-
-**3rd party**
-
-
-**Privacy policy links:**
-
-
-**Opt out links:**
-
-
-**3rd party**
-
-
-**Privacy policy links:**
-
-
-**Opt out links:**
-
-
-**3rd party**
-
-
-**Privacy policy links:**
-
-
-**Opt out links:**
-
-
-**3rd party**
-
-
-**Privacy policy links:**
-
-
-**Opt out links:**
-
-
-**3rd party**
-
-
-**Privacy policy links:**
-
-
-**Opt out links:**
+*Opt out links:*
+https://www.singular.net/privacy-policy/
