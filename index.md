@@ -65,7 +65,7 @@ The collected data is used exclusively for internal operations, such as:
 Data is collected via the app, including through third-party SDKs, and may be stored on the device using cookies-like technology. If third parties collect data from children, their privacy policies govern that process, but we ensure they comply with COPPA and our privacy standards.
 
 **Non-Processing Access:**
-Some apps may access personal and non-personal information for specific functionalities without Crazy Labs processing this data. For example, camera and microphone access for optional features like face manipulation, where content is stored locally and not transmitted to our servers.
+Some apps may access personal and non-personal information for specific functionalities without Cameo Games processing this data. For example, camera and microphone access for optional features like face manipulation, where content is stored locally and not transmitted to our servers.
 
 **Section 4 Sharing Information with Third Parties**
 ------
@@ -86,7 +86,7 @@ We display ads from third-party networks in our apps. These networks comply with
 
 Chapter B: Cameo Games Hyper and Hybrid casual apps Privacy Policy
 -------
-Cameo Games Privacy Policy outlines our practices for handling personal data of users engaging with Crazy Labs Apps and those above 16 as confirmed through an age gate in our Children Apps. Apps in Chapter B refers to sections available solely to verified users over 16.
+Cameo Games Privacy Policy outlines our practices for handling personal data of users engaging with Cameo Games Apps and those above 16 as confirmed through an age gate in our Children Apps. Apps in Chapter B refers to sections available solely to verified users over 16.
 
 **Section 6 Data Processing**
 ------
