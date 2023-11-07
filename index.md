@@ -98,7 +98,7 @@ We, along with third-party service providers (like ad networks and analytics fir
 Data that can identify users individually, which is considered private and sensitive.
 To our knowledge we don't currently collect or process any personal information in any of our apps. 3rd parties might need it use it in cases of in-app purchases, and things like this.
 
-Additionally, third parties might monitor and gather details of your online behavior across various digital services. For opting out of such tracking, consult Section 17.
+Additionally, third parties might monitor and gather details of your online behavior across various digital services. For opting out of such tracking, consult Section 13.
 It's important to note that if Non-Personal Information is linked to Personal Information, it will be treated as Personal Information.
 We refrain from collecting any payment details, government IDs, private contacts, microphone and camera data, or sensitive device data from users.
 Some Cameo Games Apps might access both Personal and Non-Personal Information for feature functionality, but this data isn't processed by Cameo Games—it stays on your device and isn't used or collected by us.
@@ -106,9 +106,9 @@ Some Cameo Games Apps might access both Personal and Non-Personal Information fo
 **Section 7 Collection Methods for User information (How do we collect the information)**
 ------
 
-**Section 7.1** Non-personal Information is acquired during your interaction with Cameo Games Apps. This collection happens through the app's use, including APIs or SDKs integrated within the apps. Additionally, your device may store non-personal data through standard technologies like cookies and local storage (details on these technologies are provided in Section 17).
+**Section 7.1** Non-personal Information is acquired during your interaction with Cameo Games Apps. This collection happens through the app's use, including APIs or SDKs integrated within the apps. Additionally, your device may store non-personal data through standard technologies like cookies and local storage (details on these technologies are provided in Section 12).
 
-**Section 7.2 **Personal Information is collected directly from you or through third parties when you install or use Cameo Games Apps, or interact with ads within these apps. This data is gathered via the apps themselves or through third-party APIs or SDKs present in the apps. Your device might also save personal data through accepted industry methods such as cookies and local storage (refer to Section 17 for more on cookies and local storage).
+**Section 7.2 **Personal Information is collected directly from you or through third parties when you install or use Cameo Games Apps, or interact with ads within these apps. This data is gathered via the apps themselves or through third-party APIs or SDKs present in the apps. Your device might also save personal data through accepted industry methods such as cookies and local storage (refer to Section 12 for more on cookies and local storage).
 
 **Section 8: Objectives of Information Collection**
 -------
@@ -132,11 +132,82 @@ The collection of Personal Information is for:
 - Any additional purposes described at the time the information is collected.
 
 
+**Section 9: Disclosure of Information to Third Parties**
+------
 
+Beyond the previously mentioned circumstances in sections 6-8, we may share Personal Information in the following scenarios:
 
+-  To comply with laws, regulations, legal procedures, or governmental demands.
+-  To enforce the Privacy Policy, Terms of Use (TOU), and other company policies, as well as to investigate potential breaches.
+- To address fraud, security, or technical concerns.
+- To deal with assertions that any content on the Cameo Games Apps infringes third-party rights.
+- To safeguard the company’s rights, property, or the safety of our community, including users, partners, and the public.
+- During a business transition, such as a merger, acquisition, or asset sale, where Personal Information might be among the transferred assets.
+- With your express consent for disclosure.
+- In the context of competitions or interactions with our social media channels.
 
+It’s important to note that we can freely share Non-personal Information with third parties as we see fit.
 
+Please be aware that certain Cameo Games Apps may let users create and share their own content, like images or videos ("User Generated Content"), which may contain Personal Information. We do not interact with, gather, or distribute this User Generated Content. It remains within the specific App and on your device; not sent to Cameo Games servers. YOU MUST RECOGNIZE AND ACCEPT THAT ANY PERSONAL INFORMATION SHARED IS YOUR RESPONSIBILITY AND DONE AT YOUR OWN RISK.
 
+**Section 10 Advertising**
+------
+We host various ad formats (like banners, interstitials, and rewarded videos) from third-party ad networks within our Cameo Games Apps. These entities may gather information related to:
+
+1. Your app usage for marketing and ad targeting purposes.
+2. Your geographic location and network details.
+3. Demographics such as age and gender from your device to deliver suitable ads within the app, manage ad exposure, and measure ad campaign success.
+
+Ads served to you may be based on your IP, device identifiers, and other Personal Information collected through your use of the Cameo Games Apps. While you may opt for non-targeted or contextual ads within our apps, be aware that third-party networks might still deliver targeted ads if you have agreed to their personalized advertising elsewhere.
+
+For a list of the third-party ad networks we work with, check the bottom of the page.
+
+Please note, interacting with ads may result in the use of cookies and other tracking technologies by the advertisers to collect data on ad interaction and your interests, which may include both non-personal and personal data like device information, identifiers, and your location.
+
+We encourage you to review the privacy policies and terms of any third-party advertisers before engaging with their ads, as those policies, not ours, govern your interactions.
+
+In addition to receiving ads, Cameo Games Apps may also feature promotional content for our other apps. These ads are not user-specific but are widely distributed across various apps.
+
+**Chaperter C Addtional Terms and Conditions**
+-----
+This chapter outlines additional terms and conditions that apply to both Chapter A and Chapter B.
+
+**Section 11 Links to third party sites**
+------
+Some links within our apps, whether in advertisements or elsewhere, allow users to navigate away from our apps to third-party websites, products, or services. We do not have control over these external entities. Typically, these third-party sites provide their own legal documents, including terms of use and privacy policies. We strongly recommend reviewing those documents to understand their information collection practices before use.
+
+**Section 12. Local storage and Cookies**
+-------
+When you use our Apps, we and/or our partners may engage technologies like "cookies," web beacons, and local storage, which save information on your device to recognize it and remember user preferences. For instance, if you mute an App, this choice is saved on your device for future use. These technologies also help us track App usage, manage ad performance, deliver relevant ads, and enhance overall service quality. The information is stored directly on your device and can be accessed by us and/or our partners. Third parties may use temporary session cookies (expiring when you close the App) and persistent cookies (which remain until deleted). This local storage may hold non-personal usage details as well as identifiable user information and location data, all collected under the terms stated here. You can manage local storage, including deleting or disabling it, through your device's settings or as instructed by your device’s guidelines, third-party policies, and usage terms. While clearing or blocking cookies or adjusting device settings can be done, it may affect and limit your App experience.
+
+**Section 13 Don't track and Opt out settings guide**
+--------
+The "Do Not Track" settings and opt-out options allow you to exert some control over how your online activities are tracked and how your information is used for interest-based advertising. Here’s a breakdown of how you can activate these settings on different devices:
+
+**iOS Devices:**
+- On iOS 7 through iOS 13: Navigate to `Settings` > `Privacy` > `Advertising`, where you can reset your advertising identifier or enable the “Limit Ad Tracking” setting.
+- On iOS 14 and later: Access `Settings` > `Privacy` > `Tracking`, and disable the “Allow Apps to Request to Track” option to prevent all apps from tracking your activity. Alternatively, you can toggle this off for individual apps. To revoke permission for an app that you previously gave consent to, go to the specific app in settings and disable “Allow Tracking.” Additionally, you can limit targeted ads by Apple in `Settings` > `Privacy` > `Apple Advertising`.
+
+**Android Devices:**
+- On devices with Android 2.3 or later: Go to `Settings` > `Google` > `Ads` and select “Opt Out of Ads Personalization” to disable ad personalization.
+
+Note that opting out doesn’t stop ads from being displayed; it merely means that the ads may be less relevant because they won’t be based on your interests. Companies may still collect data for other uses, such as analytics and research.
+
+It’s also important to remember that these preferences are generally device- and browser-specific. So if you switch devices, use a different browser, or clear your cookies, you may need to restate your preferences. Additionally, some third-party service providers may have their own opt-out mechanisms, and you would need to visit their privacy policies and follow the specified instructions to opt-out.
+
+The list of third-party service providers and their privacy practices can often be found within the privacy section of the service you are using, and it should provide instructions for opting out where available.
+
+**Section 14 Deletion & Modification of Information **
+------
+You, your guardian, or agent have the right to email us to access, change, or remove your personal data or your child’s identifier in our records, or to request we stop its usage. You can also ask us to have third parties, who obtained your data via the apps, to do likewise, and we’ll endeavor to ensure they comply. Some apps may allow direct in-app requests for data deletion. Once you cease using our apps, we'll keep your data for a period deemed necessary to meet legal obligations, resolve disputes, or enforce agreements. Note that we can't alter or delete information shared with social networks or third-party platforms through our apps. You may adjust your third-party settings to change what's shared. Opting out of such sharing may limit your app experience. Non-personal or de-identified data may be stored by us indefinitely.
+
+**Section 15 Data Security**
+------
+We prioritize the safety of your data and use standard industry practices to safeguard our Apps and your information from unauthorized access or use. However, please be aware that despite our efforts, no method of data transmission over the Internet or electronic storage is completely secure, and we cannot guarantee absolute security. THE COMPANY DISCLAIMS, TO THE MAXIMUM EXTENT ALLOWED BY LAW, ANY LIABILITY FOR THE UNINTENTIONAL DISCLOSURE OR UNAUTHORIZED ACCESS OR USE OF YOUR INFORMATION BY OUTSIDERS, OR ANY OTHER SECURITY BREACHES THAT RESULT IN THE THEFT, MODIFICATION, OR DESTRUCTION OF DATA, INCLUDING USER GENERATED CONTENT.
+
+** Section 16 Privacy Policy Changes**
+-----
+This Privacy Policy outlines the rules for using our Apps and handling your information. We may update this policy and encourage you to review this page periodically for any changes.
 
 3rd party Partners and their links
 -----
